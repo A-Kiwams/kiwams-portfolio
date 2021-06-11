@@ -1,2 +1,2 @@
-# Same as gitHub repo [A-Kiwams gitHub reposetory](https://github.com/A-Kiwams)
+## Same as gitHub repo [A-Kiwams gitHub repository](https://github.com/A-Kiwams)
 
