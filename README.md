@@ -1,2 +1,2 @@
-## Same as gitHub repo [A-Kiwams gitHub repository](https://github.com/A-Kiwams)
+## Live [Portfolio](https://a-kiwams.github.io/kiwams-portfolio/)
 
