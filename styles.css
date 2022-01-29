@@ -519,8 +519,6 @@ form button:focus {
 
 .project .project-demo__link img {
   transition: ease 0.3s all;
-
-  opacity: 0.8;
 }
 
 .project .project-demo__link:focus,
