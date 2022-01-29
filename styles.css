@@ -4,7 +4,7 @@
 
 :root {
   --primary-color: #3498db;
-  --dark-color: #544179;
+  --dark-color: #041562;
   --light-color: #fbffe2;
 }
 
@@ -80,7 +80,7 @@ main {
 }
 
 .nav-scrolled {
-  background-color: #63497c;
+  background-color: #041562;
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 8px 12px rgb(0 0 0 / 4%);
 }
 
